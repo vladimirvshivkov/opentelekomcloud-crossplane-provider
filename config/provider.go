@@ -10,12 +10,12 @@ import (
 
 	tjconfig "github.com/upbound/upjet/pkg/config"
 
-	"github.com/upbound/upjet-provider-template/config/null"
+	"github.com/vladimirvshivkov/opentelekomcloud-crossplane-provider/config/null"
 )
 
 const (
-	resourcePrefix = "template"
-	modulePath     = "github.com/upbound/upjet-provider-template"
+	resourcePrefix = "opentelekomcloud"
+	modulePath     = "github.com/vladimirvshivkov/opentelekomcloud-crossplane-provider"
 )
 
 //go:embed schema.json

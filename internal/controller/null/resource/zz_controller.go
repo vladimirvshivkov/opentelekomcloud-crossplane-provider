@@ -18,7 +18,7 @@ import (
 	"github.com/upbound/upjet/pkg/terraform"
 	ctrl "sigs.k8s.io/controller-runtime"
 
-	v1beta1 "github.com/upbound/upjet-provider-template/apis/null/v1beta1"
+	v1beta1 "github.com/upbound/upjet-provider-opentelekomcloud/apis/null/v1beta1"
 )
 
 // Setup adds a controller that reconciles Resource managed resources.
